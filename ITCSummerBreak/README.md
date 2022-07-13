@@ -10,6 +10,9 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
+NOTE : **THIS CHALLENGE IS INSPIRED FROM THE ONE AND ONLY : https://www.frontendmentor.io/ **
+
+
 Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
