@@ -54,6 +54,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **SAHRING IS CARING!** 
 
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
 
