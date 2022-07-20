@@ -47,12 +47,12 @@ You have the following list :
 
 After the sort :
 
-```
+
 
 | Country | Algeria  | Brazil  | Denmark | Russia  | United States  |
 | :-----: |   :-:    |   :-:   |   :-:   |   :-:   |       :-:      |
 
-```
+
 
 **GOOD LUCK** 🚀
 
