@@ -33,6 +33,10 @@ A sorting algorithm is used to arrange elements of an array/list in a specific o
 
 [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=4s)
 
+**Database MySQL**
+
+[How to install MySQL ](https://www.youtube.com/watch?v=UzjbQ6hn7-A)
+
 ## Submitting your solution
 
 Submit your solution on the drive or your GitHub repo 
