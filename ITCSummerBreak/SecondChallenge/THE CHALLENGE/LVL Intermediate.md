@@ -5,6 +5,8 @@ ci-joint un fichier csv contient les données des ventes des différentes voitur
 insérer le fichier csv dans le SGBD NoSQL mongodb. puis lancer une requete qui calcule le chiffre d'affaire totale des ventes (selling_price) par rapport nom de voiture (name) l'année de voiture ( year) et le propriétaire (owner).
 Les résulatats des requetes ( respectivement le modèle multidimensionnel ) doit etre représentés graphiquement.
 
+**Link :** [fichier csv - les données des ventes des différentes voitures ]([https://www.youtube.com/watch?v=D6xkbGLQesk](https://github.com/WafaBenyettou/ITCSummerBreak/tree/main/ITCSummerBreak/SecondChallenge/THE%20CHALLENGE/resources))
+
 ## Probleme 02: 
 
 
