@@ -41,20 +41,18 @@ for example
 
 You have the following list :
 
-```
 
 | Country | Brazil  | United States | Algeria | Denmark  | Russia  |
 | :-----: |   :-:   |      :-:      |   :-:   |    :-:   |   :-:   |
 
-```
 After the sort :
 
-```
+
 
 | Country | Algeria  | Brazil  | Denmark | Russia  | United States  |
 | :-----: |   :-:    |   :-:   |   :-:   |   :-:   |       :-:      |
 
-```
+
 
 **GOOD LUCK** 🚀
 
