@@ -1,6 +1,6 @@
 # ITC Third Week challenge
 
-This week we gonna take you far away from the web dev area to the pure coding area where we gonna test your knowledge of some basic necessary concepts that every programmer should know about 
+This week 
 
 the challenge is "beginners friendly" meaning anyone with basic knowledge can participate 
 
